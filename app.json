@@ -1,0 +1,1 @@
+{ "expo": { "name": "Video Follow Up", "slug": "video-follow-up", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "dark", "android": { "package": "com.videofollowup.app" } } }
